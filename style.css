@@ -8,30 +8,23 @@
 }
 
 
-section ul {
-  font-size: 20px;
-}
-
-section ul li {
-
-  padding: 20px;
-  list-style: none;
-}
-
 
 table {
   border: 1px solid black;
   margin-top: 20px;
+  margin-inline: 25px;
 
 }
 
 td {
-  border: 1px solid black;
+  border: 1px solid #000000;
+  text-align: center;
+  width: 100px;
 }
 
 .linha {
-  height: 50px;
-  text-align: center;
+  height: 30px;
+  width: 400px;
 }
 
 caption {
