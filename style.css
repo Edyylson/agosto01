@@ -43,3 +43,12 @@ img {
 #tb-saida {
   background-color: rgb(247, 81, 81);
 }
+
+
+col.cvlsaida {
+  background-color: rgb(247, 81, 81);
+}
+
+col.cvlentrada {
+  background-color: rgb(156, 206, 156);
+}
