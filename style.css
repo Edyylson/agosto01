@@ -22,8 +22,6 @@ article {
 table {
   border: 1px solid black;
   margin: auto;
-  min-width: 400px;
-
 }
 
 table.caixa {
