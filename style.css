@@ -11,9 +11,18 @@
 
 table {
   border: 1px solid black;
-  margin-top: 20px;
   margin-inline: 25px;
+  margin: auto;
 
+}
+
+table.caixa {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+table.dados {
+  margin-bottom: 30px;
 }
 
 td {
