@@ -5,6 +5,7 @@
 
   margin: 0px;
   padding: 0px;
+  box-sizing: 0px;
 }
 
 body {
@@ -15,6 +16,7 @@ body {
 
 article {
   border: 1px solid pink;
+
 }
 
 
